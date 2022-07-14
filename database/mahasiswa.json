@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62c9a4df9a76122507f33e96"
+  },
+  "nama": "usro perkasa",
+  "email": "perkasa@gmail.com"
+},{
+  "_id": {
+    "$oid": "62caf53966cbf541aa5d2af9"
+  },
+  "nama": "ismail",
+  "email": "mail@gmail.com"
+},{
+  "_id": {
+    "$oid": "62ccea131b98f36720e9ac1c"
+  },
+  "nama": "unyil",
+  "email": "unyil@gmail.com"
+},{
+  "_id": {
+    "$oid": "62ccea131b98f36720e9ac1d"
+  },
+  "nama": "banyu",
+  "email": "banyu@yahoo.com"
+}]
